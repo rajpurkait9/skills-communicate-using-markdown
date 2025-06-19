@@ -4,8 +4,7 @@
 
 <h2>
   Morning Planning
+  Review
 </h2>
 
-<h6>
-  Review
-</h6>
+
